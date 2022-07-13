@@ -18,3 +18,4 @@ Repositório de configurações do ambiente de desenvolvimento.
 * [Android Studio](https://flathub.org/apps/details/com.google.AndroidStudio)
 * [Postman](https://flathub.org/apps/details/com.getpostman.Postman)
 * [Dbeaver](https://flathub.org/apps/details/io.dbeaver.DBeaverCommunity)
+* [CopyQ](https://hluk.github.io/CopyQ/)
