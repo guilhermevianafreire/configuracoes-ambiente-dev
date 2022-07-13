@@ -7,5 +7,5 @@ Repositório de configurações do ambiente de desenvolvimento.
 * https://github.com/nvbn/thefuck
 * https://github.com/tldr-pages/tldr
 * https://docs.docker.com/desktop/linux/install/ubuntu/
-* JDK
+* OpenJDK
 * https://maven.apache.org/download.cgi
