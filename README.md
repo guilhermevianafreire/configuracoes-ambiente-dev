@@ -3,6 +3,6 @@ Repositório de configurações do ambiente de desenvolvimento.
 
 ## Linux
 
-### Lista de software
+## Lista de software
 * https://github.com/nvbn/thefuck
 * https://github.com/tldr-pages/tldr
