@@ -10,7 +10,7 @@ Repositório de configurações do ambiente de desenvolvimento.
 * OpenJDK (8, 11, 17) - Repositório Distro
 * [Maven](https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-20-04/)
 * [IntelliJ IDEA](https://flathub.org/apps/details/com.jetbrains.IntelliJ-IDEA-Community)
-* [Visual Studio Code](https://flathub.org/apps/details/com.visualstudio.code)
+* [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
 * [Chrome](https://www.google.com/intl/pt-BR/chrome/)
 * [Thunderbird](https://flathub.org/apps/details/org.mozilla.Thunderbird)
 * [Remmina](https://flathub.org/apps/details/org.remmina.Remmina)
