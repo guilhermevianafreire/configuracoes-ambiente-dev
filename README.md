@@ -4,6 +4,8 @@ Repositório de configurações do ambiente de desenvolvimento.
 ## Linux
 
 ## Lista de software
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 * [TheFuck](https://github.com/nvbn/thefuck)
 * [TLDR](https://github.com/tldr-pages/tldr)
 * [Docker](https://docs.docker.com/desktop/linux/install/ubuntu/)
