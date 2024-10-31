@@ -1,0 +1,9 @@
+[submodule "linux/zsh/.zsh/zsh-autosuggestions"]
+	path = linux/zsh/.zsh/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "linux/zsh/.zsh/zsh-completions"]
+	path = linux/zsh/.zsh/zsh-completions
+	url = https://github.com/zsh-users/zsh-completions
+[submodule "linux/zsh/.zsh/fast-syntax-highlighting"]
+	path = linux/zsh/.zsh/fast-syntax-highlighting
+	url = https://github.com/zdharma-continuum/fast-syntax-highlighting
